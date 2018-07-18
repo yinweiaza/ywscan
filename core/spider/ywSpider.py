@@ -3,3 +3,6 @@
 """
 #coding:utf-8
 
+class  Spider:
+    def __init__(self):
+        self.urls=set()
